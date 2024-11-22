@@ -130,8 +130,7 @@ Welcome to my GitHub! I'm a data enthusiast passionate about exploring Machine L
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kshitij1010&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-## 🌍 Visitor Map:
-![Visitor Map](https://www.clustrmaps.com/map_v2.png?d=YOUR_UNIQUE_MAP_ID)
+## 🌟 Contribution Heatmap
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
