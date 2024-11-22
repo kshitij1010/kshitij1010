@@ -73,7 +73,7 @@ Welcome to my GitHub! I'm a data enthusiast passionate about exploring Machine L
 ![](https://github-profile-trophy.vercel.app/?username=kshitij1010&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 📊 Languages Used:
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitij1010&layout=compact&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitij1010&count_private=true&layout=compact&theme=shadow_blue)
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
