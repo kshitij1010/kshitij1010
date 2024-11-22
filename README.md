@@ -131,6 +131,6 @@ Welcome to my GitHub! I'm a data enthusiast passionate about exploring Machine L
 ![](https://github-contributor-stats.vercel.app/api?username=kshitij1010&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 🌟 Contribution Heatmap
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kshitij1010&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
