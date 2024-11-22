@@ -118,8 +118,8 @@ Welcome to my GitHub! I'm a data enthusiast passionate about exploring Machine L
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kshitij1010&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitij1010&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=kshitij1010&theme=radical&count_private=true&no-frame=false&no-bg=true&margin-w=4)
+## 🧠 Soft Skills Cloud
+![Soft Skills Cloud](https://skillicons.dev/icons?i=communication,teamwork,leadership,adaptability,problem-solving,time-management,critical-thinking,creativity,empathy,collaboration)
 
 ## 📊 Languages Used:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitij1010&count_private=true&layout=compact&theme=shadow_blue)
