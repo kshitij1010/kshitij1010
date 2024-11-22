@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I'm a data enthusiast passionate about exploring Machine Learning, NLP, and AI to build meaningful solutions. This is where I share my journey, projects, and a little bit of what drives my curiosity.
 
-![Animated GIF](https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif)
+![Animated GIF](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
 
 ## 🎧 Favorite Tune
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/spotify)
