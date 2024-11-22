@@ -1,8 +1,15 @@
-# Hi, I'm Kshitij 👋
+# Hi, I'm KJ 👋⁉️
 
 Welcome to my GitHub! I'm a data enthusiast passionate about exploring Machine Learning, NLP, and AI to build meaningful solutions. This is where I share my journey, projects, and a little bit of what drives my curiosity.
 
 ![Animated GIF](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
+
+## 🎨 About Me (Beyond the Code)
+
+- 📖 **Current Book:** *A Life at Work* by Thomas Moore  
+- ⚽ **Sports Enthusiast:** Love playing soccer, both on the field and in FIFA!  
+- 🥁 **Musician at Heart:** I enjoy playing the drums and experimenting with beats.  
+- 🌱 **Always Growing:** Exploring new hobbies and ways to stay creative outside work.  
 
 ## 🎧 Favorite Tune
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/spotify)
@@ -124,6 +131,7 @@ Welcome to my GitHub! I'm a data enthusiast passionate about exploring Machine L
 ![](https://github-contributor-stats.vercel.app/api?username=kshitij1010&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kshitij1010&icon=0&color=9)](https://visitcount.itsvg.in)
+## 🌍 Visitor Map:
+![Visitor Map](https://www.clustrmaps.com/map_v2.png?d=YOUR_UNIQUE_MAP_ID)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
