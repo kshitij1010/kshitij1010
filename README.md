@@ -114,7 +114,7 @@ Welcome to my GitHub! I'm a data enthusiast passionate about exploring Machine L
 ![Lifelong Learner](https://img.shields.io/badge/Always%20Learning-📚%20New%20Skills-orange)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kshitij1010&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kshitij1010&theme=shadow_blue&hide_border=false)<br/>
 
 ## 🧠 Trophies
