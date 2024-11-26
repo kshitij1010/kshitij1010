@@ -123,8 +123,9 @@ Welcome to my GitHub! I'm a data enthusiast passionate about exploring Machine L
 ## 📊 Languages Used:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitij1010&count_private=true&layout=compact&theme=shadow_blue)
 
+
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Random Dev Quote](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F70000&width=500&lines=Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.;Programming+is+thinking%2C+not+typing.;Java+is+to+JavaScript+what+car+is+to+carpet.)
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kshitij1010&limit=5&theme=dark&combine_all_yearly_contributions=true)
