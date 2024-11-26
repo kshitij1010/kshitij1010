@@ -125,7 +125,7 @@ Welcome to my GitHub! I'm a data enthusiast passionate about exploring Machine L
 
 
 ## ✍️ Random Dev Quote
-![Random Dev Quote](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F70000&width=700&lines=Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.;Programming+is+thinking%2C+not+typing.;Java+is+to+JavaScript+what+car+is+to+carpet.)
+![Random Dev Quote](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F70000&width=700&lines=Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.;Programming+is+thinking%2C+not+typing.;There+are+10+types+of+people+in+the+world%3A+those+who+understand+binary+and+those+who+don’t.;If+at+first+you+don’t+succeed%2C+call+it+version+1.0.;A+good+developer+is+a+lazy+developer.;It+works+on+my+machine!;Debugging+is+like+being+the+detective+in+a+crime+movie+where+you+are+also+the+murder)
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kshitij1010&limit=5&theme=dark&combine_all_yearly_contributions=true)
