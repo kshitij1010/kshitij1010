@@ -1,110 +1,156 @@
-<!-- ================= HEADER ================= -->
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+I'm+KJ+👋;AI+Engineer+%7C+Machine+Learning+Explorer;Building+LLMs+%2C+AI+Agents+%26+Intelligent+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=3000&color=6AD3F3&center=true&vCenter=true&width=900&lines=KJ+%7C+AI+Engineer;Building+AI+Systems;LLMs+%7C+RLHF+%7C+AI+Agents;Exploring+the+Horizon+of+Intelligence" />
 </p>
 
 <p align="center">
-Building intelligent systems with Machine Learning, LLMs and AI infrastructure
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=ORION%20AI&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 ---
 
-# 🧠 About Me
+# 🌌 Welcome to My Universe
 
-Hey! I'm **KJ (Kshitij Joshi)**.
+Hi, I'm **KJ (Kshitij Joshi)**.
 
-I enjoy building **AI systems that solve real-world problems** — from machine learning models to complete **LLM pipelines, agentic systems and scalable AI infrastructure**.
+My name **Kshitij** means **Horizon** — the place where the sky meets the earth.
 
-My curiosity lies where **research meets engineering**.
+Which is fitting, because I’m constantly exploring the **horizon of artificial intelligence**.
+
+I enjoy building intelligent systems combining:
+
+Machine Learning  
+Large Language Models  
+Agentic AI  
+Data Systems  
+AI Infrastructure  
 
 ---
 
-# ⚡ AI Areas I Work In
+# 🤖 AI Agent Architecture
 
-- Machine Learning
-- Deep Learning
-- Reinforcement Learning
-- RLHF (Reinforcement Learning from Human Feedback)
-- Model Finetuning
-- Prompt Engineering
-- Agentic AI Systems
-- Retrieval Augmented Generation (RAG)
-- LLM Evaluation
-- Multimodal AI
-- AI Infrastructure
+Modern AI systems often follow this structure:
+
+User Query  
+↓  
+Agent Orchestrator  
+
+↓  
+
+Tool Layer  
+• APIs  
+• Databases  
+• External Services  
+
+↓  
+
+Retrieval Layer  
+• Vector Search  
+
+↓  
+
+Reasoning Layer  
+• LLM / Finetuned Model  
+
+↓  
+
+Response Generation  
+
+Core capabilities:
+
+• RAG pipelines  
+• tool usage  
+• LLM reasoning  
+• evaluation loops  
+• agent orchestration  
+
+---
+
+# 🧠 Machine Learning Roadmap
+
+Mathematics & Statistics  
+↓  
+Machine Learning  
+↓  
+Deep Learning  
+↓  
+Transformers  
+↓  
+Large Language Models  
+↓  
+RAG Systems  
+↓  
+RLHF  
+↓  
+AI Agents  
+↓  
+Production AI Systems  
 
 ---
 
 # 🛠 Tech Stack
 
 ### Languages
-
-`Python` `SQL` `Scala` `Java` `C++`
+Python • SQL • Scala • Java • C++
 
 ### Machine Learning
-
-`PyTorch`  
-`TensorFlow`  
-`Scikit-learn`  
-`XGBoost`
+PyTorch  
+TensorFlow  
+Scikit-learn  
+XGBoost  
 
 ### LLM Ecosystem
-
-`Transformers`  
-`HuggingFace`  
-`LangChain`  
-`Vector Databases`  
-`Embedding Models`
+Transformers  
+HuggingFace  
+LangChain  
+Vector Databases  
+Embedding Models  
 
 ### Data Systems
-
-`Pandas`  
-`NumPy`  
-`Polars`  
-`Apache Spark`
+Pandas  
+NumPy  
+Polars  
+Apache Spark  
 
 ### Infrastructure
-
-`Docker`  
-`Kubernetes`  
-`AWS`  
-`Google Cloud`  
-`Azure`
-
----
-
-# 🎧 Currently Playing
-
-<p align="center">
-<a href="https://open.spotify.com">
-<img src="https://novatorem.vercel.app/api/spotify"/>
-</a>
-</p>
+Docker  
+Kubernetes  
+AWS  
+Google Cloud  
+Azure  
 
 ---
 
-# 🎮 Contribution Game
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kshitij1010&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kshitij1010&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitij1010&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitij1010&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🌌 Contribution Activity
+# 🎴 Developer Profile Cards
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kshitij1010&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kshitij1010&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kshitij1010&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kshitij1010&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kshitij1010&theme=tokyonight"/>
+</p>
+
+---
+
+# 🌠 Contribution Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kshitij1010&theme=tokyo-night"/>
@@ -112,23 +158,35 @@ My curiosity lies where **research meets engineering**.
 
 ---
 
-# 🧠 Currently Exploring
+# 🌍 3D Contribution Globe
 
-- RLHF pipelines
-- Scalable LLM training
-- AI agent orchestration
-- Multimodal models
-- Production-grade AI systems
+<p align="center">
+<img src="https://raw.githubusercontent.com/antonkomarev/github-profile-views-counter/master/assets/3d-contrib.svg"/>
+</p>
+
+---
+
+# 💻 Terminal
+
+whoami  
+KJ  
+
+interests  
+AI • Machine Learning • LLMs • RLHF • Agentic Systems  
+
+current_focus  
+Building intelligent AI systems  
+
+philosophy  
+Build things that make intelligence useful  
 
 ---
 
 # 🎨 Beyond Code
 
-When I'm not building models, you might find me:
-
-⚽ Playing **soccer**  
-🥁 Playing **drums**  
-📚 Reading philosophy, creativity, and life  
+⚽ Playing soccer  
+🥁 Playing drums  
+📚 Reading philosophy & creativity  
 
 Current read:
 
@@ -136,7 +194,7 @@ Current read:
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 Connect
 
 <p align="center">
 
@@ -160,13 +218,4 @@ Current read:
 
 ---
 
-# ⚡ Fun Fact
-
-My name **Kshitij** means **Horizon** —  
-the place where the sky meets the earth.
-
-A fitting name for someone exploring the **edge of AI**.
-
----
-
-⭐ If you find something interesting here, feel free to explore my repositories.
+⭐ If something here interests you, feel free to explore my repositories.
