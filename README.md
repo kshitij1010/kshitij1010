@@ -1,89 +1,41 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=3000&color=6AD3F3&center=true&vCenter=true&width=900&lines=KJ+%7C+AI+Engineer;Building+AI+Systems;LLMs+%7C+RLHF+%7C+AI+Agents;Exploring+the+Horizon+of+Intelligence" />
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=ORION%20AI&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+I'm+KJ+👋;AI+Engineer+%7C+Machine+Learning;LLMs+%7C+RLHF+%7C+AI+Agents;Building+Intelligent+Systems" />
 </p>
 
 ---
 
-# 🌌 Welcome to My Universe
+# 🧠 About Me
 
 Hi, I'm **KJ (Kshitij Joshi)**.
 
 My name **Kshitij** means **Horizon** — the place where the sky meets the earth.
 
-Which is fitting, because I’m constantly exploring the **horizon of artificial intelligence**.
+I enjoy building **intelligent systems powered by Machine Learning and Large Language Models**, focusing on solving real-world problems through AI.
 
-I enjoy building intelligent systems combining:
+My work usually sits at the intersection of:
 
-Machine Learning  
-Large Language Models  
-Agentic AI  
-Data Systems  
-AI Infrastructure  
-
----
-
-# 🤖 AI Agent Architecture
-
-Modern AI systems often follow this structure:
-
-User Query  
-↓  
-Agent Orchestrator  
-
-↓  
-
-Tool Layer  
-• APIs  
-• Databases  
-• External Services  
-
-↓  
-
-Retrieval Layer  
-• Vector Search  
-
-↓  
-
-Reasoning Layer  
-• LLM / Finetuned Model  
-
-↓  
-
-Response Generation  
-
-Core capabilities:
-
-• RAG pipelines  
-• tool usage  
-• LLM reasoning  
-• evaluation loops  
-• agent orchestration  
+- Machine Learning
+- Large Language Models
+- Agentic AI
+- Reinforcement Learning
+- AI Infrastructure
+- Data Systems
 
 ---
 
-# 🧠 Machine Learning Roadmap
+# ⚡ AI Areas I Work In
 
-Mathematics & Statistics  
-↓  
-Machine Learning  
-↓  
-Deep Learning  
-↓  
-Transformers  
-↓  
-Large Language Models  
-↓  
-RAG Systems  
-↓  
-RLHF  
-↓  
-AI Agents  
-↓  
-Production AI Systems  
+- Machine Learning  
+- Deep Learning  
+- Reinforcement Learning  
+- RLHF (Reinforcement Learning from Human Feedback)  
+- Model Finetuning  
+- Prompt Engineering  
+- Agentic AI Systems  
+- Retrieval Augmented Generation (RAG)  
+- LLM Evaluation  
+- Multimodal AI  
+- AI Infrastructure  
 
 ---
 
@@ -105,7 +57,7 @@ LangChain
 Vector Databases  
 Embedding Models  
 
-### Data Systems
+### Data
 Pandas  
 NumPy  
 Polars  
@@ -120,13 +72,13 @@ Azure
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kshitij1010&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kshitij1010&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitij1010&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitij1010&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -135,17 +87,17 @@ Azure
 # 🎴 Developer Profile Cards
 
 <p align="center">
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kshitij1010&theme=tokyonight"/>
+
 </p>
 
 <p align="center">
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kshitij1010&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kshitij1010&theme=tokyonight"/>
-</p>
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kshitij1010&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kshitij1010&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kshitij1010&theme=tokyonight"/>
+
 </p>
 
 ---
@@ -153,32 +105,28 @@ Azure
 # 🌠 Contribution Activity
 
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kshitij1010&theme=tokyo-night"/>
-</p>
 
----
-
-# 🌍 3D Contribution Globe
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/antonkomarev/github-profile-views-counter/master/assets/3d-contrib.svg"/>
 </p>
 
 ---
 
 # 💻 Terminal
 
-whoami  
-KJ  
+```bash
+whoami
+KJ
 
-interests  
-AI • Machine Learning • LLMs • RLHF • Agentic Systems  
+interests
+AI • Machine Learning • LLMs • RLHF • Agentic Systems
 
-current_focus  
-Building intelligent AI systems  
+current_focus
+Building intelligent AI systems
 
-philosophy  
-Build things that make intelligence useful  
+philosophy
+Build things that make intelligence useful
+```
 
 ---
 
@@ -186,11 +134,11 @@ Build things that make intelligence useful
 
 ⚽ Playing soccer  
 🥁 Playing drums  
-📚 Reading philosophy & creativity  
+📚 Reading philosophy and creativity  
 
 Current read:
 
-**A Life at Work — Thomas Moore**
+*A Life at Work — Thomas Moore*
 
 ---
 
@@ -206,7 +154,7 @@ Current read:
 <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium"/>
 </a>
 
-<a href="https://x.com/kjwhytho">
+<a href="https://x.com/Kshitij_1010_">
 <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter"/>
 </a>
 
